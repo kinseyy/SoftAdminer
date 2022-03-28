@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="10%" align="center" src="SoftAdminer/icon.ico">
+  <img width="10%" align="center" src="src/icon.ico">
 </p>
 <h1 align="center">
   SoftAdminer
@@ -40,7 +40,18 @@
 </details>
 
 ## Installing
-Pre-built binaries are available from the [releases](https://github.com/kinseyy/SoftAdminer/releases) page.
+Pre-built binaries are available from the [releases](https://github.com/kinseyy/
+
+
+
+
+
+
+
+
+
+
+releases) page.
 
 ## Shortcuts
 
