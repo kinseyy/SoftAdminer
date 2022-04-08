@@ -2,3 +2,4 @@
 packaging==20.9
 requests==2.25.1
 PySide6==6.0.3
+booting
